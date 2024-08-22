@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "extra_armor_mod:fianit"
+    }
+  },
+  "result": {
+    "id": "extra_armor_mod:fianit_block"
+  }
+}

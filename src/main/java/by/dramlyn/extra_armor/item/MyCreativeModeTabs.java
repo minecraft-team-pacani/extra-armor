@@ -26,6 +26,7 @@ public class MyCreativeModeTabs {
                             .displayItems(((pParameters, pOutput) -> {
                                 pOutput.accept(ModItems.FIANIT.get());
                                 pOutput.accept(ModBlocks.FIANIT_ORE_BLOCK.get());
+                                pOutput.accept(ModBlocks.FIANIT_BLOCK.get());
                             }))
                             .build());
 

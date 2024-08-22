@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extra_armor_mod:fianit_block"
+    }
+  ],
+  "result": {
+    "id": "extra_armor_mod:fianit",
+    "count": 9
+  }
+}

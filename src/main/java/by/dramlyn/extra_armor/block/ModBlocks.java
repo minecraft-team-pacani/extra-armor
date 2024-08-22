@@ -22,6 +22,9 @@ public class ModBlocks {
     public static final RegistryObject<Block> FIANIT_ORE_BLOCK = registerBlock("fianit_ore_block",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.IRON_ORE)));
 
+    public static final RegistryObject<Block> FIANIT_BLOCK = registerBlock("fianit_block",
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.IRON_BLOCK)));
+
     public static void register(IEventBus eventBus){
         BLOCKS.register(eventBus);
     }

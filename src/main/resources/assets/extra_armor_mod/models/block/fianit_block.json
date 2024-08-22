@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "extra_armor_mod:block/fianit_block"
+  }
+}
